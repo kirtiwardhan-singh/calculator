@@ -1,0 +1,16 @@
+.calculator{
+    border: 1px solid rgba(90,90,90);
+    width:200px;
+    border-radius: 5px;
+    margin:auto;
+    margin-top: 5rem;
+   
+}
+.name {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5rem; /* Adjust size as needed */
+    background: linear-gradient(to right, #0f5fff, #feb47b, #5eff52); /* Your gradient colors */
+    -webkit-background-clip: text;
+    color: transparent;
+}
